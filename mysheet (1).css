@@ -1,0 +1,13 @@
+body{
+    background-image: url(editorial-apple-inc-logo-on-glass-building_smk22zqcg_thumbnail-1080_01.png);
+    color: darkgreen;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{color: rgb(4, 3, 66);}
+h1{color: rgb(49, 2, 2);}
+h2{color: rgb(78, 4, 85);}
+table{
+    margin: auto;
+}
